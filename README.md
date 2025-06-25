@@ -223,4 +223,6 @@ module "example" {
 
 ---
 
+## Output
+
 ![Output Screenshot](Infra.png)

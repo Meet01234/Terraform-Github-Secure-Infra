@@ -1,5 +1,7 @@
 # Terraform GitHub Integration and Secure Infrastructure Provisioning
 
+![Screenshot](Git.png)
+
 This project demonstrates a complete DevOps workflow using **Terraform**, **Git**, **GitHub**, and **AWS**.
 
 ## ✅ Tasks Covered
